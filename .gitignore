@@ -1,0 +1,6 @@
+images/*
+!images/plots/*
+!images/process.ipynb
+
+nrg-project/Logs/*
+nrg-project/Temp/*
